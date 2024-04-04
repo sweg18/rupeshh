@@ -58,7 +58,7 @@ export default function Home() {
         <h2 style={headingStyle}>werk</h2>
         <p style={textStyle}><span style={colorChangingStyle}>Jiffy Scan</span> - Leading AA-based explorer, currently working on building bundler and paymaster infrastructure and exploring partnerships with chains</p>
         <p style={textStyle}><span style={colorChangingStyle}>Pay3</span> - working as head of product for a while (~1.5 years) and built gaming payment products including, but not limited to, game token purchases, NFT Checkout, in-game checkouts etc.</p>
-        <p style={textStyle}><span style={colorChangingStyle}>Spookfish</span> - built an openCV based applications for detecting defects on production line for packaging. wrote the entire backend and designed the openCV module with the team.</p>
+        <p style={textStyle}><span style={colorChangingStyle}>Spookfish</span> - built an openCV based application for detecting defects on production line for packaging. wrote the entire backend and designed the openCV module with the team.</p>
         <h2 style={headingStyle}>buidls</h2>
         <p style={textStyle}><span style={colorChangingStyle}>CommuneIN</span> - An exclusive community for Indian Citizens diving into cutting-edge Web3 opportunities.</p>
         <p style={textStyle}><span style={colorChangingStyle}>Box Protocol</span> - A platform for trading tokenized crypto portfolios, offering an easy, self-custodial investment in diverse Web3 sectors.</p>
