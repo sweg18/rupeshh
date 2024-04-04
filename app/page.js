@@ -53,19 +53,19 @@ export default function Home() {
     <>
     <div style={divStyle}>
         <h2 style={headingStyle}>hi,</h2>
-        <p>gm, it's daksh and I like to work on distributed systems. my topics of interests are identities, optimizations and blockchain security.</p>
-        <p style={textStyle}>come drop by and say hi on <span style={colorChangingStyle}><a href="https://www.dakshk.xyz/">x (prev. twitter)</a></span> or checkout what I'm upto on <span style={colorChangingStyle}><a href="https://www.dakshk.xyz/">github</a></span>.</p>
+        <p>gm, it's rupesh and I like to work on distributed systems. my topics of interests are artificial intelligence, blockchain infrastructure and optimizations.</p>
+        <p style={textStyle}>come drop by and say hi on <span style={colorChangingStyle}><a href="https://twitter.com/sweg_18">x (prev. twitter)</a></span> or checkout what I'm upto on <span style={colorChangingStyle}><a href="https://github.com/sweg18">github</a></span>.</p>
         <h2 style={headingStyle}>werk</h2>
-        <p style={textStyle}><span style={colorChangingStyle}>devfolio</span> - worked as an product intern for a while (~1 year) and built multiple crypto native features including, but not limited to, crypto staking, crypto cheers, quadratic voting, etc.</p>
-        <p style={textStyle}><span style={colorChangingStyle}>metapass</span> - built an onchain ticketing platform which leveraged NFTs as tickets. wrote all of the EVM contracts and built the frontend and backend with the team. scaled it to over 2000 users in ~3 months with over 1000 tickets sold across irl and virtual events.</p>
+        <p style={textStyle}><span style={colorChangingStyle}>Jiffy Scan</span> - Leading AA-based explorer, currently working on building bundler and paymaster infrastructure and exploring partnerships with chains</p>
+        <p style={textStyle}><span style={colorChangingStyle}>Pay3</span> - working as head of product for a while (~1.5 years) and built gaming payment products including, but not limited to, game token purchases, NFT Checkout, in-game checkouts etc.</p>
+        <p style={textStyle}><span style={colorChangingStyle}>Spookfish</span> - built an openCV based applications for detecting defects on production line for packaging. wrote the entire backend and designed the openCV module with the team.</p>
         <h2 style={headingStyle}>buidls</h2>
-        <p style={textStyle}><span style={colorChangingStyle}>evm explorer</span> - a tool to allow evm devs for testing out evm contracts without building a graphic UI. simply plug in ABI & contract address and be ready to go.</p>
-        <p style={textStyle}><span style={colorChangingStyle}>ENS-tar</span> - ENS-tar is a tool which allows you to set your ENS Avatar, you can either use your NFT or a custom avatar to set it.</p>
-        <p style={textStyle}><span style={colorChangingStyle}>Wagmi Signatures</span> - Wagmi Signatures is an on-chain protocol for writing and signing agreements. Users can use Private/Public Key signatures to verify authenticity of the agreement.</p>
-        <p style={textStyle}><span style={colorChangingStyle}>go eth me</span> - a go fund me like fundraiser alternative for ethereum blockchain.</p>
-        <p style={textStyle}><span style={colorChangingStyle}>dislog</span> - a initialize once, use everywhere discord logging library to send application logs directly to discord.</p>
-        <p style={textStyle}><span style={colorChangingStyle}>Bridge</span> - an ethereum bridge built using liquidity pools & the graph to index events. currently only native ETH {'<->'} MATIC on rinkeby & mumbai supported</p>
-        <p style={textStyle}><span style={colorChangingStyle}>Comebacks AI</span> - A simple AI which generates comebacks for you. Built using OpenAI's GPT-3.</p>
+        <p style={textStyle}><span style={colorChangingStyle}>CommuneIN</span> - An exclusive community for Indian Citizens diving into cutting-edge Web3 opportunities.</p>
+        <p style={textStyle}><span style={colorChangingStyle}>Box Protocol</span> - A platform for trading tokenized crypto portfolios, offering an easy, self-custodial investment in diverse Web3 sectors.</p>
+        <p style={textStyle}><span style={colorChangingStyle}>Supervision</span> - A tool for detecting defective blisters on pharma production lines, improved production efficeny by 70%.</p>
+        <p style={textStyle}><span style={colorChangingStyle}>Sync Match</span> - a tool to analyse and remove duplicate files including text and image type files.</p>
+        <p style={textStyle}><span style={colorChangingStyle}>Predix Market</span> - a platform for betting on the outcomes of real-life events.</p>
+        <p style={textStyle}><span style={colorChangingStyle}>LiquiBridge</span> -An Ethereum bridge leveraging liquidity pools and indexing events using The Graph.</p>
     </div>
     <div style={divStyle2}>
       <hr style={{borderColor: "black", height: "2px", width: "100%", alignItems: "center"}}></hr>
