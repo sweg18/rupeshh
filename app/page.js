@@ -24,20 +24,21 @@ export default function Home() {
   }, []);
 
   const divStyle = {
-    marginLeft: '450px',
-    marginRight: '450px',
-    marginTop: '150px',
-    marginBottom: '50px'
+    marginLeft: '5%',
+    marginRight: '5%',
+    marginTop: '5%',
+    marginBottom: '5%'
   }
   const divStyle2 = {
-    margin: '0px 550px',
+    margin: '0 auto',
+    width: '80%',
     display: 'flex',
     flexDirection: 'column',
     justifyContent: "center",
     alignItems: 'center',
   }
   const headingStyle = {
-    fontSize:'35px',
+    fontSize: '2rem',
     fontWeight: '600',
     textDecoration: 'underline',
     marginBottom: '15px'
