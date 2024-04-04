@@ -54,9 +54,10 @@ export default function Home() {
     <div style={divStyle}>
         <h2 style={headingStyle}>hi,</h2>
         <p>gm, it's rupesh and I like to work on distributed systems. my topics of interests are artificial intelligence, blockchain infrastructure and optimizations.</p>
+        <br/> 
         <p style={textStyle}>come drop by and say hi on <span style={colorChangingStyle}><a href="https://twitter.com/sweg_18">x (prev. twitter)</a></span> or checkout what I'm upto on <span style={colorChangingStyle}><a href="https://github.com/sweg18">github</a></span>.</p>
         <h2 style={headingStyle}>werk</h2>
-        <p style={textStyle}><span style={colorChangingStyle}>Jiffy Scan</span> - Leading AA-based explorer, currently working on building bundler and paymaster infrastructure and exploring partnerships with chains</p>
+        <p style={textStyle}><span style={colorChangingStyle}>Jiffy Scan</span> - leading AA-based explorer, currently working on building bundler and paymaster infrastructure and exploring partnerships with chains</p>
         <p style={textStyle}><span style={colorChangingStyle}>Pay3</span> - working as head of product for a while (~1.5 years) and built gaming payment products including, but not limited to, game token purchases, NFT Checkout, in-game checkouts etc.</p>
         <p style={textStyle}><span style={colorChangingStyle}>Spookfish</span> - built an openCV based application for detecting defects on production line for packaging. wrote the entire backend and designed the openCV module with the team.</p>
         <h2 style={headingStyle}>buidls</h2>
