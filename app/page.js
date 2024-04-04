@@ -24,14 +24,10 @@ export default function Home() {
   }, []);
 
   const divStyle = {
-    marginLeft: '5%',
-    marginRight: '5%',
-    marginTop: '5%',
-    marginBottom: '5%'
+    margin: '5%',
   }
   const divStyle2 = {
-    margin: '0 auto',
-    width: '80%',
+    margin: '5%',
     display: 'flex',
     flexDirection: 'column',
     justifyContent: "center",
@@ -53,8 +49,6 @@ export default function Home() {
     fontWeight: '600' 
   };
 
-  
-  
   return (
     <>
     <div style={divStyle}>
