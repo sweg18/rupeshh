@@ -59,7 +59,7 @@ export default function Home() {
     <div style={divStyle}>
         <h2 style={headingStyle}>hi,</h2>
         <p>gm, it's daksh and I like to work on distributed systems. my topics of interests are identities, optimizations and blockchain security.</p>
-        <p style={textStyle}>come drop by and say hi on <span style={colorChangingStyle}>x (prev. twitter)</span> or checkout what I'm upto on <span style={colorChangingStyle}>github</span>.</p>
+        <p style={textStyle}>come drop by and say hi on <span style={colorChangingStyle}><a href="https://www.dakshk.xyz/">x (prev. twitter)</a></span> or checkout what I'm upto on <span style={colorChangingStyle}><a href="https://www.dakshk.xyz/">github</a></span>.</p>
         <h2 style={headingStyle}>werk</h2>
         <p style={textStyle}><span style={colorChangingStyle}>devfolio</span> - worked as an product intern for a while (~1 year) and built multiple crypto native features including, but not limited to, crypto staking, crypto cheers, quadratic voting, etc.</p>
         <p style={textStyle}><span style={colorChangingStyle}>metapass</span> - built an onchain ticketing platform which leveraged NFTs as tickets. wrote all of the EVM contracts and built the frontend and backend with the team. scaled it to over 2000 users in ~3 months with over 1000 tickets sold across irl and virtual events.</p>
