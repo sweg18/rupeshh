@@ -61,12 +61,12 @@ export default function Home() {
         <p style={textStyle}><span style={colorChangingStyle}>Pay3</span> - working as head of product for a while (~1.5 years) and built gaming payment products including, but not limited to, game token purchases, NFT Checkout, in-game checkouts etc.</p>
         <p style={textStyle}><span style={colorChangingStyle}>Spookfish</span> - built an openCV based application for detecting defects on production line for packaging. wrote the entire backend and designed the openCV module with the team.</p>
         <h2 style={headingStyle}>buidls</h2>
-        <p style={textStyle}><span style={colorChangingStyle}>CommuneIN</span> - An exclusive community for Indian Citizens diving into cutting-edge Web3 opportunities.</p>
-        <p style={textStyle}><span style={colorChangingStyle}>Box Protocol</span> - A platform for trading tokenized crypto portfolios, offering an easy, self-custodial investment in diverse Web3 sectors.</p>
-        <p style={textStyle}><span style={colorChangingStyle}>Supervision</span> - A tool for detecting defective blisters on pharma production lines, improved production efficeny by 70%.</p>
+        <p style={textStyle}><span style={colorChangingStyle}>CommuneIN</span> - an exclusive community for Indian Citizens diving into cutting-edge Web3 opportunities.</p>
+        <p style={textStyle}><span style={colorChangingStyle}>Box Protocol</span> - a platform for trading tokenized crypto portfolios, offering an easy, self-custodial investment in diverse Web3 sectors.</p>
+        <p style={textStyle}><span style={colorChangingStyle}>Supervision</span> - a tool for detecting defective blisters on pharma production lines, improved production efficeny by 70%.</p>
         <p style={textStyle}><span style={colorChangingStyle}>Sync Match</span> - a tool to analyse and remove duplicate files including text and image type files.</p>
         <p style={textStyle}><span style={colorChangingStyle}>Predix Market</span> - a platform for betting on the outcomes of real-life events.</p>
-        <p style={textStyle}><span style={colorChangingStyle}>LiquiBridge</span> -An Ethereum bridge leveraging liquidity pools and indexing events using The Graph.</p>
+        <p style={textStyle}><span style={colorChangingStyle}>LiquiBridge</span> -an Ethereum bridge leveraging liquidity pools and indexing events using The Graph.</p>
     </div>
     <div style={divStyle2}>
       <hr style={{borderColor: "black", height: "2px", width: "100%", alignItems: "center"}}></hr>
