@@ -53,7 +53,7 @@ export default function Home() {
     <>
     <div style={divStyle}>
         <h2 style={headingStyle}>hi,</h2>
-        <p>gm, it's rupesh and I like to work on distributed systems. my topics of interests are artificial intelligence, blockchain infrastructure and optimizations.</p>
+        <p>gm, it's rupesh and I like to work on distributed computing. my topics of interests are artificial intelligence and blockchain infrastructure</p>
         <br/> 
         <p style={textStyle}>come drop by and say hi on <span style={colorChangingStyle}><a href="https://twitter.com/sweg_18">x (prev. twitter)</a></span> or checkout what I'm upto on <span style={colorChangingStyle}><a href="https://github.com/sweg18">github</a></span>.</p>
         <h2 style={headingStyle}>werk</h2>
