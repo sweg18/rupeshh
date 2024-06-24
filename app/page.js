@@ -70,7 +70,7 @@ export default function Home() {
     </div>
     <div style={divStyle2}>
       <hr style={{borderColor: "black", height: "2px", width: "100%", alignItems: "center"}}></hr>
-      <p>not playing anything, check out this playlist</p>
+      <p>not playing anything currently, contact me for any references for my buidls</p>
       <br/>
      // <iframe style={{borderRadius: '12px', marginBottom:'200px'}} src="https://open.spotify.com/embed/playlist/5j6thXnur7Tv029VnSyB7d?utm_source=generator&theme=0" width="100%" height="380" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
     //  <p>Shamelessly copied from <a href="https://www.dakshk.xyz/">dakshk</a></p>
